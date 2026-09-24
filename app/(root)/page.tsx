@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Home() {
   return (
      <div>
-      <h1>shristi</h1>
+      <h1>abhishek</h1>
       <UserButton/>
      </div>
   );
