@@ -2,7 +2,11 @@ import React from 'react'
 
 function layout() {
   return (
-    <div>layout</div>
+    <div>
+ <h1>sample pr check</h1>
+
+    </div>
+
   )
 }
 
